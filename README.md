@@ -1,6 +1,6 @@
 # corsing
 
-![screenshot](assets/screenshot.png)
+![screenshot](screenshot.png)
 
 ### CORS helper to forward a request if CORS is in your way
 
